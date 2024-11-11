@@ -1,2 +1,2 @@
 # Audio-player
-audio player with javascript
+audio player using javascript
